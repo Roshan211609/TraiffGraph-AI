@@ -1,0 +1,6 @@
+product,origin,market,dependency,supplier_concentration,product_risk
+Electronics,Country A,Country X,0.88,0.72,0.80
+Electronics,Country B,Country Y,0.84,0.69,0.78
+Automotive Components,Country C,Country Z,0.76,0.78,0.75
+Textiles,Country A,Country Y,0.62,0.55,0.58
+Machinery,Country B,Country X,0.70,0.64,0.67
